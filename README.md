@@ -1,5 +1,4 @@
-# capstone-project
-#zepto data and AI platform
+
 %%writefile Dockerfile
 FROM python:3.10-slim
 
