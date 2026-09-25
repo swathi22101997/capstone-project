@@ -1,8 +1,4 @@
-Here is a complete, production-ready `README.md` file tailored specifically for your Zepto AI/ML Capstone submission. You can place this file directly at the root of your repository (or split the respective module sections into `/data_pipeline/README.md`, `/analytics/README.md`, and `/support_assistant/README.md`).
 
----
-
-```markdown
 # Zepto Data & AI Platform — Capstone Project
 
 Welcome to the end-to-end **Zepto Data & AI Platform** capstone repository. This project unifies three core capabilities into a single production-ready repository:
